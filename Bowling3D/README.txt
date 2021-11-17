@@ -8,4 +8,4 @@ We get the rows needed and with some mathematics dependign on the row and parity
 We can't move camera until the ball is launched,it can be moved using the mouse position if is around the ball,and once launched we can move the camera around.
 We launch the ball with Mouse LEFT it starts spining and moving towards the cylinders and check collision with them.
 If we press Mouse RIGHT- we reset the stage or if the ball gets to far we reset it again.After reset the score is being displayed.
-Try find out easter eggs ;).
+Try to find out the easter eggs ;).
