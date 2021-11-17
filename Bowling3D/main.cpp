@@ -67,7 +67,7 @@ void mouse_button_callback(GLFWwindow* window, int button, int action, int mods)
 
 
 
-void processInput(GLFWwindow *window)
+void processInput(GLFWwindow *window)//CAN BE DONE MORE EASILY IN CALLBACK
 {
 	float cameraSpeed = 10.0f * deltaTime;
 	float rotationSpeed = 30.f* deltaTime;
